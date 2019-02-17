@@ -4,7 +4,7 @@ Describe your issue here.
 
 ### Your environment
 
-- version of <project>
+- project version
 - other relevant environment information: os, browser, etc.
 
 ### Expected behaviour
